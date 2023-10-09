@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center;justify-content: center">
-    <img src="public/favicon.ico" width=70 height=70 />
-    <p style="font-size: 4rem">iChurras</p>
-</div>
+<h1 align='center'>
+<img src="public/favicon.ico" width=70 height=70 /> 
+    iChurras    
+</h1>
 
-<h1 align='center'>A agenda de churras da Galera 🍻</h1>
+<h2 align='center'>A agenda de churras da Galera 🍻</h2>
 
 <div align="center" style="margin-top: 30px;">
     <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"  rel="noopener noreferrer">
